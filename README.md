@@ -1,6 +1,6 @@
 # Nick Heppermann Project Portfolio
 
-Hello, welcome to my project portfolio repository. I've worked on some really rewarding projects and find the challenges so exciting I keep coming back for more.  If you would like to learn more, please peruse the project portfolio.
+Hello, welcome to my project portfolio repository. I've worked on some really rewarding projects and find the challenges so exciting I keep coming back for new challenges.  If you would like to learn more about my work, please peruse my project portfolio.
 
 <style>
 /* Three image containers */
@@ -25,8 +25,11 @@ Hello, welcome to my project portfolio repository. I've worked on some really re
 }
 </style>
 
+<!--
 ## :link: [EDPF - broke](./projects/)
+-->
 
+<!--
 ## :link: [School Final Project - broke](./projects/)
 <div class="row">
   <div class="three-imgs-column">
@@ -39,6 +42,7 @@ Hello, welcome to my project portfolio repository. I've worked on some really re
     <img src="resources/emeritus_predicting_astronaut_results.png" alt="predicting astronauts" style="width:100%">
   </div>
 </div>
+-->
 
 ## :link: [CheezeWhiz](./projects/cheezewhiz_project.md)
 <div class="row">
@@ -49,33 +53,39 @@ Hello, welcome to my project portfolio repository. I've worked on some really re
     <img src="resources/cheezewhiz_phase2.gif" style="width:100%">
   </div>
 </div>
+360 degree spin photography system for capturing, editing, and publishing imagery.  System integrates with multiple Canon DSLR cameras through Canon API to provide live feeds of camera view finders within the software, and image manipulation before publishing the imagery via the  <a href='#media_pub_pipline'>Media Publishing Pipeline</a>.
 
+
+<!--
 ## :link: [ExperimentTator](./projects/experimenttator_project.md)
+-->
 
+<div id="media_pub_pipline" />
 
 ## :link: [Media Publishing Pipeline](./projects/media_pipeline.md)
+<img src="resources/pipelineworkprocessor.png" />
 Media publishing framework that improves content moderator efficiency by processing and publishing media via a background service.  Core features of the media pipeline included:
 * Highly parallelized processing
 * Resiliency to temporal errors (network connectivity issues)
 * Prioritization, scheduling, and automatic retry
 
-
 Client applications publish work to a data store.  PipelineWorkProcessor application reads work items from the data store, spinning up threads to execute work items in parallel.
-<img src="resources/pipelineworkprocessor.png" />
+
 
 ## :link: [HRED J2000](./projects/hred_j2000.md)
-A hardware implementation of a video compressor/decompressor.
-
-From the marketing materials: 
->The HRED J2000 -- a 4-lane PCIe board that contains a highly parallel JPEG2000 encoding/decoding engine capable of processing multiple video streams simultaneously. The streams can compress video from its PCIe interface or from its up to two DVI-I dual link interfaces, decompress video over its PCIe interface, and perform raw frame captures from its up to two DVI-I dual link interfaces. The HRED J2000 is ideal in command and control scenarios where high resolution video must be moved between multiple video sources, storage devices, and display surfaces. In effect, the HRED J2000 is a JPEG 2000 hardware accelerator!
-
 <img src="resources/hred_j2000.png" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
   width:50%;">
+A hardware implementation of a video compressor/decompressor.
+
+From the marketing materials: 
+>The HRED J2000 -- a 4-lane PCIe board that contains a highly parallel JPEG2000 encoding/decoding engine capable of processing multiple video streams simultaneously. The streams can compress video from its PCIe interface or from its up to two DVI-I dual link interfaces, decompress video over its PCIe interface, and perform raw frame captures from its up to two DVI-I dual link interfaces. The HRED J2000 is ideal in command and control scenarios where high resolution video must be moved between multiple video sources, storage devices, and display surfaces. In effect, the HRED J2000 is a JPEG 2000 hardware accelerator!
 
 
+
+<!--
 ## Extra
 <div class="row">
   <div class="three-imgs-column">
@@ -88,3 +98,4 @@ From the marketing materials:
     <img src="resources/cheezewhiz_post_process.gif" alt="post processing" style="width:100%">
   </div>
 </div>
+-->
