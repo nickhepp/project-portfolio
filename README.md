@@ -2,6 +2,7 @@
 
 Hello, welcome to my project portfolio repository. I've worked on some really rewarding projects and find the challenges so exciting I keep coming back for new challenges.  If you would like to learn more about my work, please peruse my project portfolio.
 
+<!--
 <style>
 /* Three image containers */
 .three-imgs-column {
@@ -24,10 +25,9 @@ Hello, welcome to my project portfolio repository. I've worked on some really re
   display: table;
 }
 </style>
-
-<!--
-## :link: [EDPF - broke](./projects/)
 -->
+
+## :link: [Embedded Device Prototyping Framework](https://github.com/nickhepp/embedded-device-prototyping-framework)
 
 <!--
 ## :link: [School Final Project - broke](./projects/)
