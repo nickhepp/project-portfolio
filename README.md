@@ -1,7 +1,5 @@
 # Nick Heppermann Project Portfolio
 
-[[_TOC_]]
-
 Hello, welcome to my project portfolio repository. I've worked on some really rewarding projects and find the challenges so exciting I keep coming back for new challenges.  If you would like to learn more about my work, please peruse my project portfolio.
 
 <!--
@@ -61,7 +59,7 @@ Embedded Device Prototyping Framework (EDPF) is an embedded device rapid prototy
   </div>
 </div>
 360 degree spin photography system for capturing, editing, and publishing imagery.  System integrates with multiple Canon DSLR cameras through Canon API to provide live feeds of camera view finders within the software, and image manipulation before publishing the imagery via the  <a href='#media_pub_pipline'>Media Publishing Pipeline</a>.
-
+<br/><br/><br/>
 
 <!--
 ## :link: [ExperimentTator](./projects/experimenttator_project.md)
@@ -77,7 +75,7 @@ Media publishing framework that improves content moderator efficiency by process
 * Prioritization, scheduling, and automatic retry
 
 Client applications publish work to a data store.  PipelineWorkProcessor application reads work items from the data store, spinning up threads to execute work items in parallel.
-
+<br/><br/><br/>
 
 ## :link: [HRED J2000](./projects/hred_j2000.md)
 <img src="resources/hred_j2000.png" style="display: block;
@@ -85,6 +83,7 @@ Client applications publish work to a data store.  PipelineWorkProcessor applica
   margin-right: auto;
   width: 50%;
   width:50%;">
+
 A hardware implementation of a video compressor/decompressor.
 
 From the marketing materials: 
