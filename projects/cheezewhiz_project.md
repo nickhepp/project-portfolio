@@ -26,7 +26,7 @@ https://drive.google.com/drive/folders/0BzF69sT91d4DOWtkdXBYTExXZFU?resourcekey=
 
 ### Stage 4 - Publishing
 
-TODO: link to media pipeline
+Images are published via the [media pipeline](./projects/media_pipeline.md).
 
 
 
