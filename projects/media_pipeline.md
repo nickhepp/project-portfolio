@@ -12,5 +12,5 @@ Media publishing framework that improves content moderator efficiency by process
 Client applications publish work to a data store.  PipelineWorkProcessor application reads work items from the data store, spinning up threads to execute work items in parallel.
 
 ### Technologies
-.NET Framework
+.NET Framework<br/>
 SQL Server
