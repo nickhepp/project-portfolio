@@ -3,6 +3,8 @@
 From the marketing materials: 
 >The HRED J2000 -- a 4-lane PCIe board that contains a highly parallel JPEG2000 encoding/decoding engine capable of processing multiple video streams simultaneously. The streams can compress video from its PCIe interface or from its up to two DVI-I dual link interfaces, decompress video over its PCIe interface, and perform raw frame captures from its up to two DVI-I dual link interfaces. The HRED J2000 is ideal in command and control scenarios where high resolution video must be moved between multiple video sources, storage devices, and display surfaces. In effect, the HRED J2000 is a JPEG 2000 hardware accelerator!
 
+[Product brochure](./resources/HRED-J2000.pdf)
+
 ### Technologies
 
 * Device
@@ -15,4 +17,5 @@ From the marketing materials:
 * Developed Customer SDK
     * Based on [Qt 4.8 framework](https://en.wikipedia.org/wiki/Qt_version_history#Qt_4)
     * C++ with OpenGL view of media stream
-
+<br/>
+<img src="../resources/hred_example_applications.png"/>
