@@ -12,17 +12,17 @@ Canon DSLR Integration - [Canon provided EOS SDK](https://developercommunity.usa
 
 Provides real time view
 
-https://drive.google.com/file/d/18QI0cW03i50G6mGi6_y33clPWhJFrNRa/view?usp=sharing
+[Video of stage](https://drive.google.com/file/d/18QI0cW03i50G6mGi6_y33clPWhJFrNRa/view?usp=sharing)
 
 ### Stage 2 - Capturing the images
 
 Shows progress through intuitive indicator
 
-https://drive.google.com/file/d/18QI0cW03i50G6mGi6_y33clPWhJFrNRa/view?usp=sharing
+[Video of stage](https://drive.google.com/file/d/18QI0cW03i50G6mGi6_y33clPWhJFrNRa/view?usp=sharing)
 
 ### Stage 3 - Post processing
 
-https://drive.google.com/drive/folders/0BzF69sT91d4DOWtkdXBYTExXZFU?resourcekey=0-HcTYR7wo3wEOmZAEHUDyfw
+[Video of stage](https://drive.google.com/file/d/15PkColMMArgOU0Y3Gxs_9QlL_ukBP1jU/view?usp=share_link)
 
 ### Stage 4 - Publishing
 
